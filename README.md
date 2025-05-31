@@ -18,7 +18,6 @@ The following Brave features are explicitly disabled:
 | Quick Answers                   | `QuickAnswersEnabled`             | Disabled  |
 | Parcel Tracking                 | `ParcelTrackingEnabled`           | Disabled  |
 | Shopping List                   | `ShoppingListEnabled`             | Disabled  |
-| Sync                            | `SyncDisabled`                    | Enabled   |
 | Guest Mode                      | `BrowserGuestModeEnabled`         | Disabled  |
 | Browser Sign-in                 | `BrowserSignin`                   | Disabled  |
 | Built-in DNS Client             | `BuiltInDnsClientEnabled`         | Disabled  |
