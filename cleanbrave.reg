@@ -40,5 +40,4 @@ Windows Registry Editor Version 5.00
 "ParcelTrackingEnabled"=dword:00000000
 "RelatedWebsiteSetsEnabled"=dword:00000000
 "ShoppingListEnabled"=dword:00000000
-"SyncDisabled"=dword:00000000
 "ExtensionManifestV2Availability"=dword:00000002
